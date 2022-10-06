@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, Yo soy Orellana</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hola 👋, Yo soy Escarlet Orellana</h1>
+<h3 align="center">A passionate frontend developer from chile</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
